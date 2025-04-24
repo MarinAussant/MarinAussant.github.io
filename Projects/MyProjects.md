@@ -1,51 +1,61 @@
 # My Projects
 
-Here, you can find informations about my projects and what did I do on them!
+Here, you can find informations about some of my projects and what did I do on them!
 
-## Student Project
-### Tough Kookie
-> Tough Kookie is a **Beath Them'up** game made with **UE4** in **BP and C++** in **2019-2020**
+## Airavata
+> Airavata is an **Exploration Puzzle** game where knowledges are essential, made with **Unity 6** in **2024-2025**.
 
-I mainly was the **head programmer** and the **tool designer** of this project, but I did other tasks too.  
-It was our **graduation project**, and we worked more than a year on it. So I had the time to do a lot of stuffs for this project!
+As programming wasn't very challenging on this project, I decided to concentrate on the **Level Design** and **Narrative Design** of this world.
 
-[What I did on this groovy game](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/ToughKookie.md)  
-[Trailer](https://www.youtube.com/watch?v=OYH15Qfyvc4)  
-[A Full Playtrough](https://www.youtube.com/watch?v=TI5NTqJ_x2w)  
-[Download the game and have fun!](https://tough-kookie.itch.io/tough-kookie)
+It was our **graduation project**, on which 8 of us worked together for 9 months. I was able to work with all the departments of a video game development team and develop other skills, notably in **Game Design** and playtest feedback.
 
+[Details on what I did](https://github.com/MarinAussant/Portfolio/blob/main/Projects/Airavata/Airavata.md)  
+[Trailer]() (coming soon)  
+[A Full Playtrough]() (coming soon)  
+[Download the game and have fun!](https://john-gd.itch.io/airavata)
 
-## Professional Projects
-### Les Chroniques de Volarela
-> I worked as a freelance for **CrossQuest Studio** twice on this educative **point & click** made with **Unity-C#**. My Last Contract with them was on from **June to August 2020**.
+## Fish'n'Ship
+> Fish'n'Ship is a **Cooperation** game with scuba diving and sailor gameplay, made with **Unity 6** in **C#** in **48 hours** for Global Game Jam 2025.
 
-I was hired as a **Tool Designer** by CrossQuest Studio.  
-My main task was to design a **dialogue editor** and Unity environement adapted to this project.  
-The last time I worked for them I was in charge of an intern. It was a pleasure to teach him all about tool design.
+I took care of all the programming around the boat gameplay side, including **Gameplay Programming**, **U.I. Programming** and other smaller tasks.
 
-[What I did](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Volarela/Volarela.md)  
-[Trailer (in french)](https://www.youtube.com/watch?v=JaBq8_KsXBI)  
-[WebSite (still in french)](https://www.volarela.com/)
+We were two programmers, so we split our work on each of the two gameplays. For 2 days, I took care of all the **programming** related to the boat gameplay, the **implementation** of artists' assets, **UI management**, the **minimap** and other stuff developed in [detail](https://github.com/MarinAussant/Portfolio/blob/main/Projects/Fish'n'Ship/Fish'n'Ship.md) link.
 
-### Detox
-> Detox is a **couch-gaming platformer** for **PC**. It is one of the two games on which I worked while I was an **intern** at **La Belle Games** in **2019**. It is made with **Unity 3D**
+[Details on what I did](https://github.com/MarinAussant/Portfolio/blob/main/Projects/Fish'n'Ship/Fish'n'Ship.md)   
+[A Playtrough]() (coming soon)  
+[Download the game and have fun!](https://alanoixdecocow.itch.io/fish-n-ship)
 
-We started the game nearly from scratch on Unity 3D and I worked as the only programmer. I work a little more than a month on this game.  
-I programmed the base system of the game but my main task was to create a **Level Editor for unity but outside of Unity**.
+## Opération Mulberry
+> Opération Mulberry is a **Serious Puzzle** mobile game about the Normandy landings in World War II, made with **Unity** in **C#** in **1 month** in **2023**.
 
-[What I did](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Detox.md)
+We were 3 on this project, and I was responsible for all the **Programming**.
 
-### The Wanderer: Frankenstein's Creature
->The Wanderer: Frankenstein's Creature is a **Narative Game**. I worked on the **PC** version of the game. It is the other game on which I work at my **intership** at **La Belle Game** in **2019**. It is made with **Unity 3D** and it is produced by **Arte**.
+My first group project on Unity, Operation Mulberry is a **mobile game**, and I had to develop the entire **Touch Detection** and **Drag&Drop** system. I also had to **integrate** our artist's 3D assets.
 
-I join the team of this game barely at the end of the project.  
-My tasks on were principally  **debug** or creation of **debugging tools**.  
-I mostly worked with the animator and the **PlayMaker Plug-In** and created extentions for it.
+[Details on what I did](https://github.com/MarinAussant/Portfolio/tree/main/Projects/Op%C3%A9ration%20Mulberry)   
+[A Playtrough]() (coming soon)  
+[Download the game and have fun!](https://john-gd.itch.io/ps3)
 
-[What I did](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Frankenstein/Frankenstein.md)  
-[Trailer](https://www.youtube.com/watch?v=82ilW4ViQQU)   
-[Website](http://www.labellegames.com/projects/frankenstein-and-the-wanderer)   
-[Steam Page](https://store.steampowered.com/app/966670/The_Wanderer_Frankensteins_Creature/)
+## Boarding Chaos (Unreal Tournament 4)
+> Boarding Chaos is a **Capture The Flag** map made with **Unreal Tournament Editor** in **1 week** in **2023**.
+
+I made the entire map in **blocking**, then used the textures from the base game to **dress it up**, and **managed the placement** of the 2 bases and the various weapons and items.
+
+Boarding Chaos is a Capture The Flag blocking map made for Unreal Tournament 4, featuring **different zones** for the game's various weapons and a wide range of **possible paths**.
+
+[Details on what I did](https://github.com/MarinAussant/Portfolio/tree/main/Projects/Op%C3%A9ration%20Mulberry)   
+[A Playtrough]() (coming soon)
+
+## Dawn on Skyglow
+> Dawn on Skyglow is a **2D Platformer** made with **Phaser 3** in **JavaScript** in **1 month** in **2023**.
+
+I designed the entire game, from **Programming** to **Art**, **Level Design** and **Animation**, playable both on the **keyboard** and the **controller**.
+
+I developed simple mechanics to focus on the **Player Controller**, with the implementation of the **State Pattern**, a **Coyote Jump** and a **Jump Buffer**, to achieve a demanding **Level Design** for the player.
+
+[Details on what I did](https://github.com/MarinAussant/Portfolio/blob/main/Projects/Dawn%20on%20Skyglow/DawnOnSkyglow.md)   
+[A Playtrough](https://www.youtube.com/watch?v=lvoJxfqtgMc)
+[Download the game and have fun!](https://marinaussant.itch.io/dawn-on-skyglow)
 
 ## Other
 
