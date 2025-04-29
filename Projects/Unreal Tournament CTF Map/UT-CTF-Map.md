@@ -1,6 +1,6 @@
 ﻿# CTF Map
 > ESMA - Rennes  
-> Level Design Project - 2024 - 3 weeks  
+> Level Design Project - 2024 - 2 weeks  
 > Unreal Tournament Editor  
 > Solo  
 > Level Designer
