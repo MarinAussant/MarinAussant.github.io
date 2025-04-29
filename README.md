@@ -51,10 +51,10 @@ I'm always curious to learn more about space and physics, to discover more artis
 
 ## More about me !
 
-- [If you'd like to see my **CV**.](https://github.com/MarinAussant/Portfolio/blob/main/Documents/AussantMarin(cvTemp).pdf)
-- [If you'd like to find out more about my **Skills**.](https://github.com/MarinAussant/Portfolio/blob/main/Skills/MySkills.md)
-- [If you want to see my different **Projects**.](https://github.com/MarinAussant/Portfolio/blob/main/Projects/MyProjects.md)
-- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](https://github.com/MarinAussant/Portfolio/blob/main/WhatILike/WhatILike.md)
+- [If you'd like to see my **CV**.](Documents/AussantMarin(cvTemp).pdf)
+- [If you'd like to find out more about my **Skills**.](Skills/MySkills.md)
+- [If you want to see my different **Projects**.](Projects/MyProjects.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](WhatILike/WhatILike.md)
 
 
 ## How to contact me

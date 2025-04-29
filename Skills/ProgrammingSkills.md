@@ -7,8 +7,10 @@
 
 Before starting a project, I always think about how I'm going to **structure** it, first in broad outline to make initial prototypes, then in more detail.
 
-![UML Logo](../Documents/Pictures/UML_Logo.gif)
+![UML Logo](../Documents/Pictures/UML_logo.gif)
 ![UML Exemple](../Documents/Pictures/umlExemple.png)
+
+mettre un contour blanc autour on voir rien là bolosse
 
 
 To do this, I learned to use the **UML language** during my D.U.T. in **Computer Science**, and I use it for each new project to plan how the different parts of my code will be **organized**.
@@ -17,9 +19,13 @@ All this with the aim of **factoring** the code, using **OCP** as much as possib
 
 ![UML Player2](../Documents/Pictures/playerUml2.png)
 
+pareil on voit rien mettre un fond blanc
+
 In the same vein, I've got into the habit of using a few **Design Patterns** such as **Inheritance**, **Observer Pattern** for declaring and using events, **State Pattern** for A.I. and Character Behavior, and **Singleton** for easily creating Managers.
 
 ![UML Player](../Documents/Pictures/playerUml.png)
+
+pareil on voit rien mettre un fond blanc
 
 In particular, I used the State Pattern in the [**Dawn On Skyglow**](../Projects/Dawn%20on%20Skyglow/DawnOnSkyglow.md), [**Rat Escape!**](../Projects/Other%20Projects/Rat%20Escape%20!/RatEscape!.md) or [**2D Platformer Controller**](../Projects/Other%20Projects/2D%20Platformer%20Controller/2dPlatformerController.md) projects.
 
@@ -80,7 +86,7 @@ et par d'autres manière de programmer comme l'ECS
 
 ***
 
-- [If you'd like to look at my other **Skills**.](../Skills/MySkills.md)
+- [If you'd like to look at my other **Skills**.](MySkills.md)
 - [If you'd like to see my **CV**.](../Documents/AussantMarin(cvTemp).pdf)
 - [If you want to see my different **Projects**.](../Projects/MyProjects.md)
 - [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)

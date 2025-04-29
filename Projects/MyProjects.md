@@ -11,7 +11,7 @@ As programming wasn't very challenging on this project, I decided to concentrate
 
 It was our **graduation project**, on which 8 of us worked together for 9 months. I was able to work with all the departments of a video game development team and develop other skills, notably in **Game Design** and playtest feedback.
 
-[Details on what I did](https://github.com/MarinAussant/Portfolio/blob/main/Projects/Airavata/Airavata.md)  
+[Details on what I did](Airavata/Airavata.md)  
 [Trailer]() (coming soon)  
 [A Full Playtrough]() (coming soon)  
 [Download the game and have fun!](https://john-gd.itch.io/airavata)
@@ -25,7 +25,7 @@ I took care of all the programming around the boat gameplay side, including **Ga
 
 We were two programmers, so we split our work on each of the two gameplays. For 2 days, I took care of all the **programming** related to the boat gameplay, the **implementation** of artists' assets, **UI management**, the **minimap** and other stuff developed in [detail](https://github.com/MarinAussant/Portfolio/blob/main/Projects/Fish'n'Ship/Fish'n'Ship.md) link.
 
-[Details on what I did](https://github.com/MarinAussant/Portfolio/blob/main/Projects/Fish'n'Ship/Fish'n'Ship.md)   
+[Details on what I did](Fish'n'Ship/Fish'n'Ship.md)   
 [A Playtrough]() (coming soon)  
 [Download the game and have fun!](https://alanoixdecocow.itch.io/fish-n-ship)
 
@@ -38,7 +38,7 @@ We were 3 on this project, and I was responsible for all the **Programming**.
 
 My first group project on Unity, Operation Mulberry is a **mobile game**, and I had to develop the entire **Touch Detection** and **Drag&Drop** system. I also had to **integrate** our artist's 3D assets.
 
-[Details on what I did](https://github.com/MarinAussant/Portfolio/tree/main/Projects/Op%C3%A9ration%20Mulberry)   
+[Details on what I did](Op%C3%A9ration%20Mulberry/Op%C3%A9rationMulberry.md)   
 [A Playtrough]() (coming soon)  
 [Download the game and have fun!](https://john-gd.itch.io/ps3)
 
@@ -51,7 +51,7 @@ I made the entire map in **blocking**, then used the textures from the base game
 
 Boarding Chaos is a Capture The Flag blocking map made for Unreal Tournament 4, featuring **different zones** for the game's various weapons and a wide range of **possible paths**.
 
-[Details on what I did](https://github.com/MarinAussant/Portfolio/blob/main/Projects/Unreal%20Tournament%20CTF%20Map/UT-CTF-Map.md)   
+[Details on what I did](Unreal%20Tournament%20CTF%20Map/UT-CTF-Map.md)   
 [A Playtrough]() (coming soon)
 
 ***
@@ -63,7 +63,7 @@ I designed the entire game, from **Programming** to **Art**, **Level Design** an
 
 I developed simple mechanics to focus on the **Player Controller**, with the implementation of the **State Pattern**, a **Coyote Jump** and a **Jump Buffer**, to achieve a demanding **Level Design** for the player.
 
-[Details on what I did](https://github.com/MarinAussant/Portfolio/blob/main/Projects/Dawn%20on%20Skyglow/DawnOnSkyglow.md)   
+[Details on what I did](Dawn%20on%20Skyglow/DawnOnSkyglow.md)   
 [A Playtrough](https://www.youtube.com/watch?v=lvoJxfqtgMc)   
 [Download the game and have fun!](https://marinaussant.itch.io/dawn-on-skyglow)
 
@@ -75,8 +75,8 @@ I hope I've convinced you of my skills in team and solo projects. I'm always int
 
 ***
 
-- [If you'd like to see my **CV**.](https://github.com/MarinAussant/Portfolio/blob/main/Documents/AussantMarin(cvTemp).pdf)
-- [If you'd like to find out more about my **Skills**.](https://github.com/MarinAussant/Portfolio/blob/main/Skills/MySkills.md)
-- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](https://github.com/MarinAussant/Portfolio/blob/main/WhatILike/WhatILike.md)   
+- [If you'd like to see my **CV**.](../Documents/AussantMarin(cvTemp).pdf)
+- [If you'd like to find out more about my **Skills**.](../Skills/MySkills.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)   
 
-[Or return to the **Main Page**.](https://github.com/MarinAussant/Portfolio/blob/main/README.md)
+[Or return to the **Main Page**.](../README.md)
