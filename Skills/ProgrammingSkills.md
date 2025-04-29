@@ -7,7 +7,7 @@
 
 Before starting a project, I always think about how I'm going to **structure** it, first in broad outline to make initial prototypes, then in more detail.
 
-![UML Logo](https://github.com/MarinAussant/Portfolio/tree/main/Documents/Pictures/UML_Logo.gif)
+![UML Logo](Documents/Pictures/UML_Logo.gif)
 ![UML Exemple](https://github.com/MarinAussant/Portfolio/tree/main/Documents/Pictures/umlExemple.png)
 
 
