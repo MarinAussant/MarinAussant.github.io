@@ -1,5 +1,5 @@
-#
 hi !
+
 # I'm Marin Aussant
 
 I'm currently a student at **ESMA Rennes** school specialized in Video game conception and where I developed my interest into **Game Programming** but also into Level Design.
@@ -47,11 +47,9 @@ I'm also interested in giving meaning to my work through **Narrative Design** li
 
 I'm always curious to learn more about space and physics, to discover more artistic trends, new artists and musical universes, and to see new movies.
 
+***
 
 ## More about me !
-
-
-***
 
 - [If you'd like to see my **CV**.](https://github.com/MarinAussant/Portfolio/blob/main/Documents/AussantMarin(cvTemp).pdf)
 - [If you'd like to find out more about my **Skills**.](https://github.com/MarinAussant/Portfolio/blob/main/Skills/MySkills.md)
