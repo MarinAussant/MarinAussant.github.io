@@ -7,8 +7,8 @@
 
 Before starting a project, I always think about how I'm going to **structure** it, first in broad outline to make initial prototypes, then in more detail.
 
-![UML Logo](../Documents/Pictures/UML_logo.gif)
 ![UML Exemple](../Documents/Pictures/umlExemple.png)
+![UML Logo](../Documents/Pictures/UML_logo.gif)
 
 mettre un contour blanc autour on voir rien là bolosse
 
