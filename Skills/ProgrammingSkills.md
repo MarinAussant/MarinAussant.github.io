@@ -7,8 +7,8 @@
 
 Before starting a project, I always think about how I'm going to **structure** it, first in broad outline to make initial prototypes, then in more detail.
 
-![UML Logo](Documents/Pictures/UML_Logo.gif)
-![UML Exemple](Documents/Pictures/umlExemple.png)
+![UML Logo](./Documents/Pictures/UML_Logo.gif)
+![UML Exemple](./Documents/Pictures/umlExemple.png)
 
 
 To do this, I learned to use the **UML language** during my D.U.T. in **Computer Science**, and I use it for each new project to plan how the different parts of my code will be **organized**.
@@ -21,7 +21,7 @@ In the same vein, I've got into the habit of using a few **Design Patterns** suc
 
 ![UML Player](Documents/Pictures/playerUml.png)
 
-In particular, I used the State Pattern in the [**Dawn On Skyglow**](Projects/Dawn%20on%20Skyglow/DawnOnSkyglow.md), [**Rat Escape!**](Projects/Other%20Projects/Rat%20Escape%20!/RatEscape!.md) or [**2D Platformer Controller**](Projects/Other%20Projects/2D%20Platformer%20Controller/2dPlatformerController.md) projects.
+In particular, I used the State Pattern in the [**Dawn On Skyglow**](./Projects/Dawn%20on%20Skyglow/DawnOnSkyglow.md), [**Rat Escape!**](Projects/Other%20Projects/Rat%20Escape%20!/RatEscape!.md) or [**2D Platformer Controller**](Projects/Other%20Projects/2D%20Platformer%20Controller/2dPlatformerController.md) projects.
 
 I always try to **optimize** my code as much as possible, using the **syntax** and **lexicon** defined by the project, with the aim of maximizing **readability**.
 
