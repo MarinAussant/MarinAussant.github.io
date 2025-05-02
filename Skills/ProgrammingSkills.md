@@ -29,13 +29,15 @@ pareil on voit rien mettre un fond blanc
 
 In particular, I used the State Pattern in the [**Dawn On Skyglow**](../Projects/Dawn%20on%20Skyglow/DawnOnSkyglow.md), [**Rat Escape!**](../Projects/Other%20Projects/Rat%20Escape%20!/RatEscape!.md) or [**2D Platformer Controller**](../Projects/Other%20Projects/2D%20Platformer%20Controller/2dPlatformerController.md) projects.
 
+![Dawn On Skyglow Gif](../Documents/Gifs/dawnOnSkyglowGif.gif)
+
 I always try to **optimize** my code as much as possible, using the **syntax** and **lexicon** defined by the project, with the aim of maximizing **readability**.
 
 ***
 
 ## Unity
 
-On Unity, I then mastered the tools provided by the engine, such as **Scriptable Objects**, **Prefab**, **Delegate** and **Event**.
+On **Unity**, I then mastered the tools provided by the engine, such as **Scriptable Objects**, **Prefab**, **Delegate** and **Event**.
 
 I then specialized in **Gameplay** and **3C Programming**. I create 1st and 3rd person **Character Controllers**, as well as other systems more specific to each project, such as [**Fish'nShip**](../Projects/Fish'n'Ship/Fish'n'Ship.md), [**Rat Escape!**](../Projects/Other%20Projects/Rat%20Escape%20!/RatEscape!.md) or [**Operation Mulberry**](../Projects/Op%C3%A9ration%20Mulberry/Op%C3%A9rationMulberry.md).
 
@@ -47,7 +49,7 @@ I also do **UI Programming** to make the link with displayed UI and I know how t
 
 I've also mastered **Mobile Development** with **Unity Remote**, and can create tools to **detect** and **manage** different **Inputs** and **Swipes** for mobile games like [**Operation Mulberry**](../Projects/Op%C3%A9ration%20Mulberry/Op%C3%A9rationMulberry.md).
 
-//AJOUTER GIF DE Opération Mulberry
+![Operation Mulberry Gif](../Documents/Gifs/OperationMulberry.gif)
 
 I also know how to set up and use optimization tools like **Occlusion Culling** and **LOD Group**, and how to manage lights on Unity 6 with **Adaptive Probe Volume**.
 
@@ -58,11 +60,11 @@ I also know how to set up and use optimization tools like **Occlusion Culling** 
 
 ## Unreal Engine
 
-oui je maîtrise la prog gameplay et 3c avec le blueprint d'unreal
+On the **Unreal Engine**, I'm able to create simple **Gameplay** and **3C** mechanics using **Blueprint**, and I've mastered the **UI** creation tool using Widgets, linking the Blueprint code with the game.
 
-je sais utiliser et mettre en place des ui avec l'outil d'unreal
+I'm also interested in **Tech Art**, creating **Shaders** to enhance the visual aspect of the game or to add a unique artistic touch such as a Toon, Pixalate... shaders.
 
-j'ai aussi pu faire quelques shader simple
+![Unreal Engin Gif](../Documents/Gifs/unrealEngine.gif)
 
 ***
 
