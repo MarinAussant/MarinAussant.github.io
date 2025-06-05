@@ -43,7 +43,7 @@ We were 3 on this project, and I was responsible for all the **Programming**.
 
 My first group project on Unity, Operation Mulberry is a **mobile game**, and I had to develop the entire **Touch Detection** and **Drag&Drop** system. I also had to **integrate** our artist's 3D assets.
 
-[A Playtrough](https://www.youtube.com/watch?v=7NWKX2iD1_A) 
+[A Playtrough](https://www.youtube.com/watch?v=7NWKX2iD1_A)  
 [Download the game and have fun!](https://john-gd.itch.io/ps3)
 
 ***
@@ -51,14 +51,14 @@ My first group project on Unity, Operation Mulberry is a **mobile game**, and I 
 ## Boarding Chaos (Unreal Tournament 4)
 > Boarding Chaos is a **Capture The Flag** map made with **Unreal Tournament Editor** in **2 week** in **2023**.
 
-![Boarding Chaos Gif](../Documents/Gifs/boardingChaosGif.gif)
+![Boarding Chaos Gif](../Documents/Pictures/mapBoardingChaos.png)
 
 
 I made the entire map in **blocking**, then used the textures from the base game to **dress it up**, and **managed the placement** of the 2 bases and the various weapons and items.
 
 Boarding Chaos is a Capture The Flag blocking map made for Unreal Tournament 4, featuring **different zones** for the game's various weapons and a wide range of **possible paths**.
 
-[A Playtrough]() (coming soon)
+[A Gameplay of the Map](https://www.youtube.com/watch?v=7EFZHr2oBxU) 
 
 ***
 
@@ -85,7 +85,7 @@ I was in charge of **Programming** each of the game's mechanics.
 
 Each level was different, and with a **New Mechanic**, I had to learn to code a lot of **different things quickly** and **adapt**.
 
-[A Playtrough](https://www.youtube.com/watch?v=lvoJxfqtgMc) coming soon   
+[A Playtrough](https://youtu.be/XPo3reLPVV8)   
 [Download the game and have fun!](https://maerys.itch.io/what-the-flag)
 
 ***
