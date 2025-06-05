@@ -15,21 +15,21 @@ It was our **graduation project**, on which 8 of us worked together for 9 months
 
 [Trailer](https://www.youtube.com/watch?v=v5ajwtJz154)  
 [A Full Playtrough]() (coming soon)  
-[Download the game and have fun!](https://john-gd.itch.io/airavata)
+[Itch.io Page](https://john-gd.itch.io/airavata)
 
 ***
 
 ## Fish'n'Ship
 > Fish'n'Ship is a **Cooperation** game with scuba diving and sailor gameplay, made with **Unity 6** in **C#** in **48 hours** for Global Game Jam 2025.
 
-![Fish'n'Ship Screenshot](../Documents/Pictures/fishNShipGif.gif)
+![Fish'n'Ship Screenshot](../Documents/Pictures/fishNShip.png)
 
 I took care of all the programming around the boat gameplay side, including **Gameplay Programming**, **U.I. Programming** and other smaller tasks.
 
-We were two programmers, so we split our work on each of the two gameplays. For 2 days, I took care of all the **programming** related to the boat gameplay, the **implementation** of artists' assets, **UI management**, the **minimap** and other stuff developed in [detail](https://github.com/MarinAussant/Portfolio/blob/main/Projects/Fish'n'Ship/Fish'n'Ship.md) link.
+We were two programmers, so we split our work on each of the two gameplays. For 2 days, I took care of all the **programming** related to the boat gameplay, the **implementation** of artists' assets, **UI management**, the **minimap** and some other stuffs.
 
 [Some Gameplay]() (coming soon)  
-[Download the game and have fun!](https://alanoixdecocow.itch.io/fish-n-ship)
+[Itch.io Page](https://alanoixdecocow.itch.io/fish-n-ship)
 
 ***
 
@@ -44,7 +44,7 @@ We were 3 on this project, and I was responsible for all the **Programming**.
 My first group project on Unity, Operation Mulberry is a **mobile game**, and I had to develop the entire **Touch Detection** and **Drag&Drop** system. I also had to **integrate** our artist's 3D assets.
 
 [A Playtrough](https://www.youtube.com/watch?v=7NWKX2iD1_A)  
-[Download the game and have fun!](https://john-gd.itch.io/ps3)
+[Itch.io Page](https://john-gd.itch.io/ps3)
 
 ***
 
@@ -72,7 +72,7 @@ I designed the entire game, from **Programming** to **Art**, **Level Design** an
 I developed simple mechanics to focus on the **Player Controller**, with the implementation of the **State Pattern**, a **Coyote Jump** and a **Jump Buffer**, to achieve a demanding **Level Design** for the player.
  
 [A Full Playtrough](https://www.youtube.com/watch?v=lvoJxfqtgMc)   
-[Download the game and have fun!](https://marinaussant.itch.io/dawn-on-skyglow)
+[Itch.io Page](https://marinaussant.itch.io/dawn-on-skyglow)
 
 ***
 
@@ -86,7 +86,7 @@ I was in charge of **Programming** each of the game's mechanics.
 Each level was different, and with a **New Mechanic**, I had to learn to code a lot of **different things quickly** and **adapt**.
 
 [A Playtrough](https://youtu.be/XPo3reLPVV8)   
-[Download the game and have fun!](https://maerys.itch.io/what-the-flag)
+[Itch.io Page](https://maerys.itch.io/what-the-flag)
 
 ***
 
