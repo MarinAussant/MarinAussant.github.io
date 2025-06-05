@@ -22,13 +22,13 @@ It was our **graduation project**, on which 8 of us worked together for 9 months
 ## Fish'n'Ship
 > Fish'n'Ship is a **Cooperation** game with scuba diving and sailor gameplay, made with **Unity 6** in **C#** in **48 hours** for Global Game Jam 2025.
 
-![Fish'n'Ship Gif](../Documents/Gifs/fishNShipGif.gif)
+![Fish'n'Ship Screenshot](../Documents/Pictures/fishNShipGif.gif)
 
 I took care of all the programming around the boat gameplay side, including **Gameplay Programming**, **U.I. Programming** and other smaller tasks.
 
 We were two programmers, so we split our work on each of the two gameplays. For 2 days, I took care of all the **programming** related to the boat gameplay, the **implementation** of artists' assets, **UI management**, the **minimap** and other stuff developed in [detail](https://github.com/MarinAussant/Portfolio/blob/main/Projects/Fish'n'Ship/Fish'n'Ship.md) link.
 
-[A Playtrough]() (coming soon)  
+[Some Gameplay]() (coming soon)  
 [Download the game and have fun!](https://alanoixdecocow.itch.io/fish-n-ship)
 
 ***
@@ -58,7 +58,7 @@ I made the entire map in **blocking**, then used the textures from the base game
 
 Boarding Chaos is a Capture The Flag blocking map made for Unreal Tournament 4, featuring **different zones** for the game's various weapons and a wide range of **possible paths**.
 
-[A Gameplay of the Map](https://www.youtube.com/watch?v=7EFZHr2oBxU) 
+[Some Gameplay](https://www.youtube.com/watch?v=7EFZHr2oBxU) 
 
 ***
 
@@ -71,7 +71,7 @@ I designed the entire game, from **Programming** to **Art**, **Level Design** an
 
 I developed simple mechanics to focus on the **Player Controller**, with the implementation of the **State Pattern**, a **Coyote Jump** and a **Jump Buffer**, to achieve a demanding **Level Design** for the player.
  
-[A Playtrough](https://www.youtube.com/watch?v=lvoJxfqtgMc)   
+[A Full Playtrough](https://www.youtube.com/watch?v=lvoJxfqtgMc)   
 [Download the game and have fun!](https://marinaussant.itch.io/dawn-on-skyglow)
 
 ***
