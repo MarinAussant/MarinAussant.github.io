@@ -6,7 +6,14 @@ I'm currently a student at **ESMA Rennes** school specialized in Video game conc
 
 Originally from Normandy in France, I started getting interested in programming at the age of 14, initially in web design, which led me to do a D.U.T. Computer Science. But ever since I was little, I've been fascinated and inspired by the world of video games, and I've had this idea in my head to take part in their creation. I tried out Unreal Engine in middle school, then pygame later on, and then decided to start my adventure in video games with ESMA.
 
+- [If you'd like to see my **CV**.](Documents/AussantMarin(cvTemp).pdf)
+- [If you want to see my different **Projects**.](Projects/MyProjects.md)
+- [If you'd like to find out more about my **Skills**.](Skills/MySkills.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](WhatILike/WhatILike.md)
+
 ***
+
+# More about me :
 
 ## Programming
 
@@ -49,19 +56,15 @@ I'm always curious to learn more about space and physics, to discover more artis
 
 ***
 
-## More about me !
-
 - [If you'd like to see my **CV**.](Documents/AussantMarin(cvTemp).pdf)
-- [If you'd like to find out more about my **Skills**.](Skills/MySkills.md)
 - [If you want to see my different **Projects**.](Projects/MyProjects.md)
+- [If you'd like to find out more about my **Skills**.](Skills/MySkills.md)
 - [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](WhatILike/WhatILike.md)
-
-
-## How to contact me
 
 Don't hesitate to send me a message !
 
 * [My Mail](mailto:marin.aussant@gmail.com)
 * [My Linkedin](https://www.linkedin.com/in/marin-aussant-623254229/)
+* [My Itch.io](https://marinaussant.itch.io/)
 
 have a good day :)

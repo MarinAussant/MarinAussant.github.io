@@ -3,6 +3,48 @@
 
 ***
 
+- [If you'd like to look at my other **Skills**.](MySkills.md)
+- [If you'd like to see my **CV**.](../Documents/AussantMarin(cvTemp).pdf)
+- [If you want to see my different **Projects**.](../Projects/MyProjects.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)
+
+[Or return to the **Main Page**.](../README.md)
+
+***
+
+## Unity
+
+On **Unity**, I then mastered the tools provided by the engine, such as **Scriptable Objects**, **Prefab**, **Delegate** and **Event**.
+
+I then specialized in **Gameplay** and **3C Programming**. I create 1st and 3rd person **Character Controllers**, as well as other systems more specific to each project, such as [**Fish'nShip**](https://alanoixdecocow.itch.io/fish-n-ship), **Rat Escape!** or [**Operation Mulberry**](https://john-gd.itch.io/ps3).
+
+//AJOUTER GIF Fish'n Ship ET 2D Platformer Controller OU Rat Escape !
+
+I also do **UI Programming** to make the link with displayed UI and I know how to make it **responsive** so that it is **dynamic** and **pleasant to use**.
+
+![Fish'n'Ship Screenshot](../Documents/Pictures/fishNShip.png)
+
+I've also mastered **Mobile Development** with **Unity Remote**, and can create tools to **detect** and **manage** different **Inputs** and **Swipes** for mobile games like [**Operation Mulberry**](https://john-gd.itch.io/ps3).
+
+![Operation Mulberry Gif](../Documents/Gifs/OperationMulberry.gif)
+
+I also know how to set up and use optimization tools like **Occlusion Culling** and **LOD Group**, and how to manage lights on Unity 6 with **Adaptive Probe Volume**.
+
+![Occlusion Culling](../Documents/Pictures/OcclusionCulling.png)
+![Adaptive Probe Volume](../Documents/Pictures/APV.png)
+
+***
+
+## Unreal Engine
+
+On the **Unreal Engine**, I'm able to create simple **Gameplay** and **3C** mechanics using **Blueprint**, and I've mastered the **UI** creation tool using Widgets, linking the Blueprint code with the game.
+
+I'm also interested in **Tech Art**, creating **Shaders** to enhance the visual aspect of the game or to add a unique artistic touch such as a Toon, Pixalate... shaders.
+
+![Unreal Engin Gif](../Documents/Gifs/unrealEngine.gif)
+
+***
+
 ## Architecture
 
 Before starting a project, I always think about how I'm going to **structure** it, first in broad outline to make initial prototypes, then in more detail.
@@ -27,44 +69,11 @@ In the same vein, I've got into the habit of using a few **Design Patterns** suc
 
 pareil on voit rien mettre un fond blanc
 
-In particular, I used the State Pattern in the [**Dawn On Skyglow**](../Projects/Dawn%20on%20Skyglow/DawnOnSkyglow.md), [**Rat Escape!**](../Projects/Other%20Projects/Rat%20Escape%20!/RatEscape!.md) or [**2D Platformer Controller**](../Projects/Other%20Projects/2D%20Platformer%20Controller/2dPlatformerController.md) projects.
+In particular, I used the State Pattern in the [**Dawn On Skyglow**](../Projects/Dawn%20on%20Skyglow/DawnOnSkyglow.md), **Rat Escape!** or [**2D Platformer Controller**](../Projects/Other%20Projects/2D%20Platformer%20Controller/2dPlatformerController.md) projects.
 
 ![Dawn On Skyglow Gif](../Documents/Gifs/dawnOnSkyglowGif.gif)
 
 I always try to **optimize** my code as much as possible, using the **syntax** and **lexicon** defined by the project, with the aim of maximizing **readability**.
-
-***
-
-## Unity
-
-On **Unity**, I then mastered the tools provided by the engine, such as **Scriptable Objects**, **Prefab**, **Delegate** and **Event**.
-
-I then specialized in **Gameplay** and **3C Programming**. I create 1st and 3rd person **Character Controllers**, as well as other systems more specific to each project, such as [**Fish'nShip**](../Projects/Fish'n'Ship/Fish'n'Ship.md), [**Rat Escape!**](../Projects/Other%20Projects/Rat%20Escape%20!/RatEscape!.md) or [**Operation Mulberry**](../Projects/Op%C3%A9ration%20Mulberry/Op%C3%A9rationMulberry.md).
-
-//AJOUTER GIF Fish'n Ship ET 2D Platformer Controller OU Rat Escape !
-
-I also do **UI Programming** to make the link with displayed UI and I know how to make it **responsive** so that it is **dynamic** and **pleasant to use**.
-
-//AJOUTER SCREEN DE Fish'n Ship
-
-I've also mastered **Mobile Development** with **Unity Remote**, and can create tools to **detect** and **manage** different **Inputs** and **Swipes** for mobile games like [**Operation Mulberry**](../Projects/Op%C3%A9ration%20Mulberry/Op%C3%A9rationMulberry.md).
-
-![Operation Mulberry Gif](../Documents/Gifs/OperationMulberry.gif)
-
-I also know how to set up and use optimization tools like **Occlusion Culling** and **LOD Group**, and how to manage lights on Unity 6 with **Adaptive Probe Volume**.
-
-![Occlusion Culling](../Documents/Pictures/OcclusionCulling.png)
-![Adaptive Probe Volume](../Documents/Pictures/APV.png)
-
-***
-
-## Unreal Engine
-
-On the **Unreal Engine**, I'm able to create simple **Gameplay** and **3C** mechanics using **Blueprint**, and I've mastered the **UI** creation tool using Widgets, linking the Blueprint code with the game.
-
-I'm also interested in **Tech Art**, creating **Shaders** to enhance the visual aspect of the game or to add a unique artistic touch such as a Toon, Pixalate... shaders.
-
-![Unreal Engin Gif](../Documents/Gifs/unrealEngine.gif)
 
 ***
 
@@ -94,6 +103,14 @@ et par d'autres manière de programmer comme l'ECS
 - [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)
 
 [Or return to the **Main Page**.](../README.md)
+
+Don't hesitate to send me a message !
+
+* [My Mail](mailto:marin.aussant@gmail.com)
+* [My Linkedin](https://www.linkedin.com/in/marin-aussant-623254229/)
+* [My Itch.io](https://marinaussant.itch.io/)
+
+have a good day :)
 
 **code exemple:**
 ```C#

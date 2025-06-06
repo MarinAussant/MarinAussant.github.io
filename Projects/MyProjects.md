@@ -2,12 +2,22 @@
 
 Here, you can find informations about some of my projects and what did I do on them!
 
+Find out more about my projects on my [Itch.io !](https://marinaussant.itch.io/)
+
+***
+
+- [If you'd like to see my **CV**.](../Documents/AussantMarin(cvTemp).pdf)
+- [If you'd like to find out more about my **Skills**.](../Skills/MySkills.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)
+
+[Or return to the **Main Page**.](../README.md)
+
 ***
 
 ## Derayah
 > Derayah is an **Exploration Puzzle** game where knowledges are essential, made with **Unity 6** in **2024-2025**.
 
-![Derayah Gif](../Documents/Gifs/derayahGif.gif)
+![Derayah Screen](../Documents/Pictures/derayah.png)
 
 As programming wasn't very challenging on this project, I decided to concentrate on the **Level Design** and **Narrative Design** of this world.
 
@@ -51,7 +61,7 @@ My first group project on Unity, Operation Mulberry is a **mobile game**, and I 
 ## Boarding Chaos (Unreal Tournament 4)
 > Boarding Chaos is a **Capture The Flag** map made with **Unreal Tournament Editor** in **2 week** in **2023**.
 
-![Boarding Chaos Gif](../Documents/Pictures/mapBoardingChaos.png)
+![Boarding Chaos Map](../Documents/Pictures/mapBoardingChaos.png)
 
 
 I made the entire map in **blocking**, then used the textures from the base game to **dress it up**, and **managed the placement** of the 2 bases and the various weapons and items.
@@ -105,6 +115,8 @@ I added a simple Ori-inspired mechanic, including a **Time Stop** and **Propulsi
 
 I hope I've convinced you of my skills in team and solo projects. I'm always interested in new projects that will help me discover new things and improve myself.   
 
+Find out more about my projects on my [Itch.io !](https://marinaussant.itch.io/)
+
 ***
 
 - [If you'd like to see my **CV**.](../Documents/AussantMarin(cvTemp).pdf)
@@ -112,3 +124,12 @@ I hope I've convinced you of my skills in team and solo projects. I'm always int
 - [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)   
 
 [Or return to the **Main Page**.](../README.md)
+
+
+Don't hesitate to send me a message !
+
+* [My Mail](mailto:marin.aussant@gmail.com)
+* [My Linkedin](https://www.linkedin.com/in/marin-aussant-623254229/)
+* [My Itch.io](https://marinaussant.itch.io/)
+
+have a good day :)

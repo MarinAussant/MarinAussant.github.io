@@ -5,7 +5,6 @@ Here is a list of my principal **hard** and **soft** skills that I use in all of
 * [My **Programming** Skills](ProgrammingSkills.md)
 * [My **Level Design** Skills](LevelDesignSkills.md)
 * [My **Soft** Skills](SoftSkills.md)
-* [My **Other** Skills](OtherSkills.md)
 
 ***
 
@@ -14,3 +13,11 @@ Here is a list of my principal **hard** and **soft** skills that I use in all of
 - [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)
 
 [Or return to the **Main Page**.](../README.md)
+
+Don't hesitate to send me a message !
+
+* [My Mail](mailto:marin.aussant@gmail.com)
+* [My Linkedin](https://www.linkedin.com/in/marin-aussant-623254229/)
+* [My Itch.io](https://marinaussant.itch.io/)
+
+have a good day :)
