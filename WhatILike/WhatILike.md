@@ -1,4 +1,4 @@
-# A (Non Exhaustive) List (or array) of thing I like
+# A (Non Exhaustive) List (or array) of thing I like [WIP]
 
 ## Video-Games
 
