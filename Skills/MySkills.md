@@ -10,7 +10,7 @@ Here is a list of my principal **hard** and **soft** skills that I use in all of
 
 - [If you'd like to see my **Resume**.](../Documents/AussantMarin_CV.pdf)
 - [If you want to see my different **Projects**.](../Projects/MyProjects.md)
-- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...) [WIP].]()
 
 [Or return to the **Main Page**.](../README.md)
 

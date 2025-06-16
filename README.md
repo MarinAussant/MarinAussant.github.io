@@ -9,7 +9,7 @@ Originally from Normandy in France, I started getting interested in programming 
 - [If you'd like to see my **Resume**.](Documents/AussantMarin_CV.pdf)
 - [If you want to see my different **Projects**.](Projects/MyProjects.md)
 - [If you'd like to find out more about my **Skills**.](Skills/MySkills.md)
-- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](WhatILike/WhatILike.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...) [WIP].]()
 
 ***
 
@@ -59,7 +59,7 @@ I'm always curious to learn more about space and physics, to discover more artis
 - [If you'd like to see my **Resume**.](Documents/AussantMarin_CV.pdf)
 - [If you want to see my different **Projects**.](Projects/MyProjects.md)
 - [If you'd like to find out more about my **Skills**.](Skills/MySkills.md)
-- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](WhatILike/WhatILike.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...) [WIP].]()
 
 Don't hesitate to send me a message !
 

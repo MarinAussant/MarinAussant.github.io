@@ -6,7 +6,7 @@
 - [If you'd like to look at my other **Skills**.](MySkills.md)
 - [If you'd like to see my **Resume**.](../Documents/AussantMarin_CV.pdf)
 - [If you want to see my different **Projects**.](../Projects/MyProjects.md)
-- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...) [WIP].]()
 
 [Or return to the **Main Page**.](../README.md)
 
@@ -17,8 +17,6 @@
 On **Unity**, I then mastered the tools provided by the engine, such as **Scriptable Objects**, **Prefab**, **Delegate** and **Event**.
 
 I then specialized in **Gameplay** and **3C Programming**. I create 1st and 3rd person **Character Controllers**, as well as other systems more specific to each project, such as [**Fish'nShip**](https://alanoixdecocow.itch.io/fish-n-ship), **Rat Escape!** or [**Operation Mulberry**](https://john-gd.itch.io/ps3).
-
-//AJOUTER GIF Fish'n Ship ET 2D Platformer Controller OU Rat Escape !
 
 I also do **UI Programming** to make the link with displayed UI and I know how to make it **responsive** so that it is **dynamic** and **pleasant to use**.
 
@@ -45,14 +43,12 @@ I'm also interested in **Tech Art**, creating **Shaders** to enhance the visual 
 
 ***
 
-## Architecture
+## Architecture [WIP]
 
 Before starting a project, I always think about how I'm going to **structure** it, first in broad outline to make initial prototypes, then in more detail.
 
 ![UML Exemple](../Documents/Pictures/umlExemple.png)
 ![UML Logo](../Documents/Pictures/UML_logo.gif)
-
-mettre un contour blanc autour on voir rien là bolosse
 
 
 To do this, I learned to use the **UML language** during my D.U.T. in **Computer Science**, and I use it for each new project to plan how the different parts of my code will be **organized**.
@@ -61,13 +57,9 @@ All this with the aim of **factoring** the code, using **OCP** as much as possib
 
 ![UML Player2](../Documents/Pictures/playerUml2.png)
 
-pareil on voit rien mettre un fond blanc
-
 In the same vein, I've got into the habit of using a few **Design Patterns** such as **Inheritance**, **Observer Pattern** for declaring and using events, **State Pattern** for A.I. and Character Behavior, and **Singleton** for easily creating Managers.
 
 ![UML Player](../Documents/Pictures/playerUml.png)
-
-pareil on voit rien mettre un fond blanc
 
 In particular, I used the State Pattern in the [**Dawn On Skyglow**](../Projects/Dawn%20on%20Skyglow/DawnOnSkyglow.md), **Rat Escape!** or [**2D Platformer Controller**](../Projects/Other%20Projects/2D%20Platformer%20Controller/2dPlatformerController.md) projects.
 
@@ -77,30 +69,27 @@ I always try to **optimize** my code as much as possible, using the **syntax** a
 
 ***
 
-## Other
+## Other [WIP]
 
+[comment]: <> (
 oui phaser le javascript et à l'aise avec les json
-
 oui avec python aussi génération procédural perlin noise 1D
-
 interessé par l'anim procédural
-
 par la génération procédural
-
 par l'IA
-
 par comment améliorer le feeling du joueur, l'ux
-
 d'autres moteurs comme Godot
+et par d'autres manière de programmer comme l'ECS)
 
-et par d'autres manière de programmer comme l'ECS
+
+
 
 ***
 
 - [If you'd like to look at my other **Skills**.](MySkills.md)
 - [If you'd like to see my **Resume**.](../Documents/AussantMarin_CV.pdf)
 - [If you want to see my different **Projects**.](../Projects/MyProjects.md)
-- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...) [WIP].]()
 
 [Or return to the **Main Page**.](../README.md)
 
@@ -111,12 +100,3 @@ Don't hesitate to send me a message !
 * [My Itch.io](https://marinaussant.itch.io/)
 
 have a good day :)
-
-**code exemple:**
-```C#
-public class TestClass : MonoBehaviour
-{
-    // Exemple Code dans MD
-}
-```    
-

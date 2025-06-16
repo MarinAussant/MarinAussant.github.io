@@ -8,7 +8,7 @@ Find out more about my projects on my [Itch.io !](https://marinaussant.itch.io/)
 
 - [If you'd like to see my **Resume**.](../Documents/AussantMarin_CV.pdf)
 - [If you'd like to find out more about my **Skills**.](../Skills/MySkills.md)
-- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...) [WIP].]()
 
 [Or return to the **Main Page**.](../README.md)
 
@@ -121,7 +121,7 @@ Find out more about my projects on my [Itch.io !](https://marinaussant.itch.io/)
 
 - [If you'd like to see my **Resume**.](../Documents/AussantMarin_CV.pdf)
 - [If you'd like to find out more about my **Skills**.](../Skills/MySkills.md)
-- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)   
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...) [WIP].]()   
 
 [Or return to the **Main Page**.](../README.md)
 

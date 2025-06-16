@@ -1,11 +1,11 @@
-# **My Level Design Skills**
+# **My Level Design Skills [WIP]**
 
 ***
 
 - [If you'd like to look at my other **Skills**.](MySkills.md)
 - [If you'd like to see my **Resume**.](../Documents/AussantMarin_CV.pdf)
 - [If you want to see my different **Projects**.](../Projects/MyProjects.md)
-- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...) [WIP].]()
 
 [Or return to the **Main Page**.](../README.md)
 
@@ -76,7 +76,7 @@ I developed simple mechanics to focus on the **Player Controller**, with the imp
 - [If you'd like to look at my other **Skills**.](MySkills.md)
 - [If you'd like to see my **Resume**.](../Documents/AussantMarin_CV.pdf)
 - [If you want to see my different **Projects**.](../Projects/MyProjects.md)
-- [If you'd like to get to **Know Me Better** (Games, Musics, etc...).](../WhatILike/WhatILike.md)
+- [If you'd like to get to **Know Me Better** (Games, Musics, etc...) [WIP].]()
 
 [Or return to the **Main Page**.](../README.md)
 
