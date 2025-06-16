@@ -19,12 +19,12 @@
 
 ***
 
-## **Level Design Project I worked on**
+## **Level Design Projects I worked on**
 
 ### Derayah
 > Derayah is an **Exploration Puzzle** game where knowledges are essential, made with **Unity 6** in **2024-2025**.
 
-![Derayah Screen](../Documents/Pictures/derayah.png)
+![Derayah Screen](../Documents/Pictures/derayah.jpg)
 
 As programming wasn't very challenging on this project, I decided to concentrate on the **Level Design** and **Narrative Design** of this world.
 
