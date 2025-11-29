@@ -24,7 +24,7 @@ As programming wasn't very challenging on this project, I decided to concentrate
 It was our **graduation project**, on which 8 of us worked together for 9 months. I was able to work with all the departments of a video game development team and develop other skills, notably in **Game Design** and playtest feedback.
 
 [Trailer](https://www.youtube.com/watch?v=v5ajwtJz154)  
-[A Full Playtrough]() (coming soon)  
+[A Full Playtrough](https://www.youtube.com/watch?v=87a7IeWNpf8)  
 [Itch.io Page](https://john-gd.itch.io/airavata)
 
 ***
