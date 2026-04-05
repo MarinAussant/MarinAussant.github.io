@@ -45,7 +45,6 @@
 ## Music
 
 ### Radiohead
-### Femtogo spk
 ### Koan Sound
 ### Et autre
 
